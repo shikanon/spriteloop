@@ -17,3 +17,5 @@ uploads/
 generated/
 outputs/
 work/
+
+*.tsbuildinfo
